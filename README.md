@@ -5,3 +5,4 @@ This repository is based on the example at https://the-turing-way.netlify.app/co
 
 You can deploy this respository in https://mybinder.org/ using the launch button below:
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alan-walsh/summer-of-research/HEAD)
